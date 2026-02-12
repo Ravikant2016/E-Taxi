@@ -1,0 +1,47 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~120|Field=Designator~String~Designator~195|Field=Footprint~String~Footprint~161|Field=Quantity~Integer~Quantity~148|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Taxi.PrjPCB|ReportField=ProjectFullPath~G:\project\Auto\Taxi\V5_1\Taxi.PrjPCB|ReportField=Title~Bill of Materials For Project [Taxi.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~85|ReportField=ReportTime~4:04:10 PM|ReportField=ReportDate~10/3/2018|ReportField=ReportDateTime~10/3/2018 4:04:10 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/3/2018|ReportField=CurrentTime~3:59:40 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~G:\project\Auto\Taxi\V5_1\Display.SchDoc|ReportField=DocumentName~Display.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/3/2018|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.94:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~Taxi.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Taxi.PrjPCB|ReportField=DataSourceFullPath~G:\project\Auto\Taxi\V5_1\Taxi.PrjPCB|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|CR2032 3V|BT1|Battery Holder(CR2032)|1
+2|100uF/10V|C1|C10uF25V|1
+3|0.1uF/10V|C2, C5, C6, C7, C16, C19|C0603|6
+4|2200uF/10V|C4|C1000uF25V|1
+5|10uF/10V|C8|C10uF25V|1
+6|1000uF/50V|C9|C1000uF50V|1
+7|1500uF/25V|C10|C1000uF50V|1
+8|0.1uF/50V|C11|C0805|1
+9|DNP|C12, C14, C15|C0603|3
+10|15K|C13|C0603|1
+11|10nF/10V|C17|C0603|1
+12|22nF/10V|C18|C0603|1
+13|RED|D1, D4|LED-5mm|2
+14|GREEN|D2|LED-5mm|1
+15|YELLOW|D3|LED-5mm|1
+16|M7|D5, D8|DO-241|2
+17|12V Zener|D6, D7|LL-41|2
+18|7 Segment 0.56|DS1, DS2, DS3, DS4, DS5|7Segment(0.56)|5
+19|7 Segment 0.3"|DS6, DS7, DS8, DS9, DS10, DS11, DS12, DS13|7Segment(0.36)|8
+20|500mA PTC|F1|1812(PTC Fuse)|1
+21|Ferrite Bead|L1|Axial 1/4W|1
+22|Buzzer 5V|LS1|Buzzer|1
+23|Header 4X1|P1|HDR1X4|1
+24|Header 5X1|P2|Connector_508_5pin|1
+25|Header 5X1|P3|HDR1X5|1
+26|Header 2X1|P4, P6|HDR1X2_2515|2
+27|Header 5|P5|HDR1X5_2515|1
+28|BC857|Q1|SOT-23|1
+29|2P4M|Q2|DPAK_SOT423_252|1
+30|TIP122|Q3|DPAK_SOT423_252|1
+31|DNP|Q4, U4, U5|SOT-23|3
+32|BC847|Q5|SOT-23|1
+33|10K|R1, R2, R6|R0603|3
+34|4K7|R3, R4, R5, R7|R0603|4
+35|DNP|R8, R12, R13, R14, R15, R16, R17, R18, R19, R20|R0603|10
+36|1K/500mW|R9|R1206|1
+37|2K2/500mW|R10, R11|R1206|2
+38|1K|R21|R0603|1
+39|DNP|TJ1|PAD_JUMPER_2_NO|1
+40|TMXXXX|U1|SOP28|1
+41|IN1307|U2|SOIC-8N|1
+42|N76E003|U3|TSSOP-20|1
+43|78M05|U6|DPAK_SOT423_252|1
+44|DNP|U7|SOIC-8N|1
+45|24C02|U8|SOIC-8N|1
+46|32.768KHz|Y1|Craystal|1

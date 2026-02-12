@@ -1,0 +1,43 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Taxi Panel.PcbDoc   8/26/2023  2:47:34 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NC Drill Files.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             32        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             736       PTH        0.00mm (0.00inch)
+T3      0.45mm (18mil)                                            Round             8         PTH        0.00mm (0.00inch)
+T4      0.5mm (20mil)                                             Round             16        PTH        0.00mm (0.00inch)
+T5      0.8mm (31mil)                                             Round             64        PTH        0.00mm (0.00inch)
+T6      0.9mm (35mil)                                             Round             536       PTH        0.00mm (0.00inch)
+T7      1mm (39mil)                                               Round             72        PTH        0.00mm (0.00inch)
+T8      1.5mm (59mil)                                             Round             24        PTH        0.00mm (0.00inch)
+T9      1.75mm (69mil)                                            Round             16        NPTH       0.00mm (0.00inch)
+T10     3mm (118mil)                                              Round             20        NPTH       0.00mm (0.00inch)
+T11     6mm (236mil)                                              Round             16        NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1540
+
+Two holes at same point : 16
+-----------------------
+197,420
+4921,420
+5325,420
+10049,420
+197,2309
+197,2740
+4921,2740
+4921,2309
+5325,2309
+5325,2740
+10049,2740
+10049,2309
+10049,4630
+5325,4630
+4921,4630
+197,4630
+
+Total Processing Time (hh:mm:ss) : 00:00:01
